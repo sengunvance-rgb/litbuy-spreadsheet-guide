@@ -2,6 +2,8 @@
 
 Mastering the Litbuy spreadsheet is your secret weapon for snagging the hottest trends and elevating your wardrobe without breaking the bank.
 
+> **[Browse the full curated litbuy list on my main site →](https://litbuyplus.com)**
+
 ## Quick answer
 
 The Litbuy spreadsheet is a community-curated database, usually hosted on Google Sheets, that aggregates product links (typically from Chinese e-commerce platforms like Taobao or Weidian), seller information, user reviews, and critical sizing/fit notes, specifically designed to help fashion-focused shoppers make informed purchasing decisions and avoid common pitfalls when buying replica or budget-friendly fashion items. It's an indispensable tool for comparing options, checking quality, and navigating the often complex world of international shopping agents.
